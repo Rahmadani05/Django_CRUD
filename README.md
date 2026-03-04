@@ -1,6 +1,6 @@
 # Django CRUD & API Integration - Data Produk
 
-Sebuah proyek *fullstack web development* yang dibangun menggunakan kerangka kerja (framework) Django. Aplikasi ini berfungsi untuk mengelola data produk dengan fitur lengkap *Create, Read, Update, Delete* (CRUD), serta dilengkapi dengan kemampuan mengimpor data secara langsung dari antarmuka pemrograman aplikasi (API) eksternal ke dalam *database* lokal.
+Sebuah proyek *fullstack web development* yang dibangun menggunakan kerangka kerja (framework) Django. Aplikasi ini berfungsi untuk mengelola data produk dengan fitur lengkap *Create, Read, Update, Delete* (CRUD), serta dilengkapi dengan kemampuan mengimpor data secara langsung dari antarmuka pemrograman aplikasi (API) eksternal ke dalam *database* lokal, Project ini saya setting ditampilan Website hanya untuk menampilkan barang yang bisa dijual.
 
 # Installasi Modul
 * pip install django & pip install requests
